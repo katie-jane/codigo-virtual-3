@@ -1,0 +1,48 @@
+
+/*Importando fuente externa*/
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400&display=swap');
+/*Importando fuente local*/
+
+@font-face {
+    font-family: "harry";
+    scr:url("")
+    
+}
+body {
+    background: #444;
+    color: white;
+}
+
+.titulo{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+}
+.tituloh2{
+    font-family: 'Oswald', sans-serif;
+font-weight: ;
+}
+.parrafo1 {
+    /*tipo de letra*/
+    font-family: Arial, Helvetica, sans-serif;
+    /*Tamaño de letra o fuente que por defecto es 16% en el  90% de los dispositivis*/
+    font-size: 20px;
+    font-weight: bold;
+}
+.parrafo2 {
+    text-align: center;
+}
+
+.titulo3{
+    font-family: "Oswald", sans-serif;
+    letter-spacing: 10px;
+    word-spacing: 20px;
+    font-size: 35px;
+    text-align: center;
+}
+
+subrayado {
+    text-decoration: line-through;
+}
+#{
+  text-decoration: none;  
+}
