@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.section1 {
+    width: 200px;
+    height: 200px;
+    
+    box-shadow: #bbb 0px 0px 20px 8px;
+    border-radius: 8px;
+    margin: 50px auto 0px auto;
+}
+h2{
+    /*margin: 0 auto;*/
+    text-align: center;
+    padding: 20px 0;
+   /* width: 300px;*/
+    /*background-color: teal;*/
+    text-shadow: #aaa 5px;
+}
+span{
+    background-color: tomato;
+}
